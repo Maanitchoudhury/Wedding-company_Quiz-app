@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { ChevronLeft, ChevronRight, PawPrint } from 'lucide-react';
 
 // --- Data & Types ---
