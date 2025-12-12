@@ -73,5 +73,5 @@ export default defineConfig([
 ])
 ```
 =======
-# Weddiing-company_Quiz-app
+# Wedding-company_Quiz-app
 >>>>>>> ce9a23f0fe7b3495701b2dbc0c0d202f8bce8504
